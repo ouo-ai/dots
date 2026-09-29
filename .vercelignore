@@ -1,0 +1,4 @@
+.env*
+services/assistant/.env*
+node_modules/
+.next/
